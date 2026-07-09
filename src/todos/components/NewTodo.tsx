@@ -41,7 +41,6 @@ export const NewTodo = () => {
             await deleteCompleted()
             router.refresh()
 
-
         } catch (error) {
 
             if (error instanceof Error) {
