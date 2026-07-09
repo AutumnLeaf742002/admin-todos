@@ -20,12 +20,12 @@
 # production
 /build
 
+# postgres
+/postgres
+
 # misc
 .DS_Store
 *.pem
-
-# postgres
-/postgres
 
 # debug
 npm-debug.log*
